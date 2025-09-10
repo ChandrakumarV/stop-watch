@@ -9,8 +9,8 @@ const reset = document.querySelector(".reset");
 const lap = document.querySelector(".lap");
 const lapList = document.querySelector(".lap-list");
 
-let seconds = 55;
-let minutes = 59;
+let seconds = 0;
+let minutes = 0;
 let hours = 0;
 let milliseconds = 0;
 
